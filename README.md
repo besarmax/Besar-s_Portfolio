@@ -1,6 +1,6 @@
 # Besar's Portfolio
 
-# [Project 1: Data Cleaning in SQL]
+# [Project 1: Data Cleaning in SQL] (https://github.com/besarmax/Besar-s_Portfolio/blob/main/Portfolio%20Project%20-%20Data%20Cleaning%20in%20SQL.sql)
  
  In this project, I cleaned a layoffs dataset using the following steps:
  
