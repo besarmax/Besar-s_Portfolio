@@ -1,7 +1,7 @@
 # Besar's Portfolio
 
-# [Project 1: Data Cleaning in SQL] (https://github.com/besarmax/Besar-s_Portfolio/blob/main/Portfolio%20Project%20-%20Data%20Cleaning%20in%20SQL.sql)
- 
+# [Project 1: Data Cleaning in SQL](https://github.com/besarmax/Besar-s_Portfolio/blob/bfafd8413ecfa260fd0415f8724cddd8c5de719a/Portfolio%20Project%20-%20Data%20Cleaning%20in%20SQL.sql)
+
  In this project, I cleaned a layoffs dataset using the following steps:
  
  *Created a Staging Table: I created a staging table (layoffs_staging) as a backup of the raw data for safe processing.
